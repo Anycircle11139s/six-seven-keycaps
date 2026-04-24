@@ -1,4 +1,4 @@
-**Only the step file is the most recent
+**Only the step and f3d files are the most recent
 **
 # six-seven-keycaps
 
